@@ -1,7 +1,7 @@
 # Reader-and-Writers-Problem
 Solution for Readers and Writers problem:
 
-//Zadanie polega na realizacji problemu czytelników i pisarzy (opis wersji klasycznej w Wikipedii), przy czym:\\  
+Zadanie polega na realizacji problemu czytelników i pisarzy (opis wersji klasycznej w Wikipedii), przy czym:      
 -jest ustalona liczba procesów — N   
 -każdy proces działa naprzemiennie w dwóch fazach: fazie relaksu i fazie korzystania z czytelni  
 -w dowolnym momencie fazy relaksu proces może (choć nie musi) zmienić swoją rolę       
